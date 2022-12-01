@@ -1,0 +1,16 @@
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9738 
+https://www.researchgate.net/publication/277143830_Analisando_o_Desempenho_do_Mergesort_In-Place_Paralelo_em_Duas_Arquiteturas_Multi-core 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5635119 
+https://www.sciencedirect.com/science/article/pii/S019667748371031X
+MANUAL http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.404.412&rep=rep1&type=pdf
+MANUAL https://pdfs.semanticscholar.org/6804/987ab63d1879aa55ba68224dced142ce8774.pdf
+https://academic.oup.com/comjnl/article/5/1/10/395338 
+MANUAL https://arxiv.org/pdf/1206.3511.pdf
+https://link.springer.com/content/pdf/10.1007%2F3-540-61680-2_42.pdf 
+MANUAL http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.654.4716&rep=rep1&type=pdf 
+MANUAL http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.301.3830&rep=rep1&type=pdf
+https://golang.org/ref/spec 
+https://golang.org/doc/go1.11#modules 
+https://golang.org/pkg/
+https://gobyexample.com/ 
+https://wiki.archlinux.org/index.php/The_Arch_Way_(%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B8)

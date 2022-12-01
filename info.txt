@@ -1,0 +1,30 @@
+
+Linux acer-arch 5.3.1-arch1-1-ARCH #1 SMP PREEMPT Sat Sep 21 11:33:49 UTC 2019 x86_64 GNU/Linux
+
+
+Nome                 : go
+Versão               : 2:1.13.1-1
+Descrição            : Core compiler tools for the Go programming language
+Arquitetura          : x86_64
+URL                  : https://golang.org/
+Licenças             : BSD
+Grupos               : Nenhum
+Provê                : Nenhum
+Depende de           : Nenhum
+Depend. opcionais    : Nenhum
+Necessário para      : gocode-daemon
+Opcional para        : Nenhum
+Conflita com         : Nenhum
+Substitui            : Nenhum
+Tamanho instalado    : 478,76 MiB
+Empacotador          : Morten Linderud <foxboron@archlinux.org>
+Data da compilação   : qua 02 out 2019 17:13:18 -03
+Data de instalação   : qui 17 out 2019 12:48:00 -03
+Motivo da instalação : Instalado explicitamente
+Script de instalação : Não
+Validado por         : Assinatura
+
+
+go version go1.13.1 linux/amd64
+
+
